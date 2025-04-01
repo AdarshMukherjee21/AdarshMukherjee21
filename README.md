@@ -20,5 +20,4 @@ I am currently working on an HR tech platform primarily built with Flutter. Prev
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adarshmukherjee&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshmukherjee&theme=tokyonight&hide_border=true&layout=compact)
 
----
-[![Profile Views](https://visitcount.itsvg.in/api?id=adarshmukherjee&icon=0&color=0)](https://visitcount.itsvg.in)
+
